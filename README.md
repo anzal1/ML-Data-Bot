@@ -13,8 +13,7 @@ You can see the demo from below GIF where I am asking the bot questions regardin
 
 # How to Run the Project
 - Install latest version of `rasa` using the instructions given on [official website](https://rasa.com/docs/rasa/user-guide/installation/) and `Python` version in your system must be `3.6 or greater`.
-- Clone this repository with following command.
-  - `git clone https://github.com/ashutosh1919/ml-data-bot.git`
+- Clone this repository.
 - I have not uploaded the pretrained model file because of its size but you can train model using following command.
   - `rasa train`
   - Note that, you **don't need GPU** to train model.
